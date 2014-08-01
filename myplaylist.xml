@@ -1,0 +1,23 @@
+<poster>[B][COLOR ff0000ff][COLOR ff4a86e8]Antimatter Playlist[/COLOR][/COLOR][/B]</poster>
+<fanart>https://github.com/foz1234/Antimatter/blob/master/Img/Antimatter.jpg</fanart>
+<thumbnail>https://github.com/foz1234/Antimatter/blob/master/Img/Antimatter.jpg</thumbnail>
+
+<info>
+<message>Antimatter more to come ![COLOR ff4a86e8][/COLOR]</message>
+<thumbnail>https://github.com/foz1234/Antimatter/blob/master/Img/Antimatter.jpg</thumbnail>
+<fanart></fanart>
+</info>
+
+<dir>
+<name>[COLOR ff4a86e8][/COLOR][B]Movies[/B]</name>
+<thumbnail>https://github.com/foz1234/Antimatter/blob/master/Img/Antimatter.jpg</thumbnail>
+<fanart></fanart>
+<link>https://github.com/foz1234/Antimatter/tree/master/Movies</link>
+</dir>
+
+<item>
+<title>The Lego Movie 2014</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX214_AL_.jpg</thumbnail>
+<fanart></fanart>
+<link> http://argon.muchmovies.org/movies-46a9b614/the-lego-movie-2014.mp4</link>
+</item>
