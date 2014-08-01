@@ -10,7 +10,7 @@
 
 <dir>
 <name>Movies</name>
-<thumbnail></thumbnail>
+<thumbnail>https://github.com/foz1234/Antimatter/blob/master/Img/Antimatter.jpg</thumbnail>
 <fanart></fanart>
 <link>https://github.com/foz1234/Anti-Matter/tree/master/xbmc/Movies</link>
 </dir>
@@ -20,4 +20,9 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg4MDk1ODExN15BMl5BanBnXkFtZTgwNzIyNjg3MDE@._V1_SX214_AL_.jpg</thumbnail>
 <fanart></fanart>
 <link>http://argon.muchmovies.org/movies-46a9b614/the-lego-movie-2014.mp4</link>
+
+
+<title>Flight (2012)</title>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SX640_SY720_.jpg</thumbnail>
+<link>http://180upload.com/8gdggxxslk1n</link>
 </item>
