@@ -1,1 +1,19 @@
-Enter fil
+<info>
+<message>More to come form [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] Anti[/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Mater ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<thumbnail></thumbnail>
+<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
+</info>
+
+
+<dir>
+<name>X-men</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/x-men.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@._V1_SX500_SY999_.jpg</thumbnail>
+</dir>
+
+
+<dir>
+<name>Lethal Weapon</name>
+<link>https://raw.githubusercontent.com/metalkettle/MetalKettles-Addon-Repository/master/CliqBoxSets/lethalweapon.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/816NXaglffL._SL1500_.jpg</thumbnail>
+</dir>
