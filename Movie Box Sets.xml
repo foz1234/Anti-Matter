@@ -7,46 +7,6 @@
 </info>
 
 
-<dir>
-<name>X-men 1-6</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/x-men.xml</link>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@._V1_SX500_SY999_.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>Lethal Weapon 1-4</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Leathal%20Weapon.xml</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/816NXaglffL._SL1500_.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>Back to the future 1-3</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/back%20to%20the%20future.xml</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/51HBABQTEWL.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>Die Hard 1-4</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Die%20Hard.xml</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/61SNxkThAoL.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>Mission impossible 1-4</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/mission%20impossible.xml</link>
-<thumbnail>http://ecx.images-amazon.com/images/I/818efQqdCUL._SL1500_.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>The Expendables 1-3</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/The%20Expendables.xml</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/mpzHpaXjBc7bHAhwcerIznnq9qV.jpg</thumbnail>
-</dir>
 
 <dir>
 <name>The Adam Sandler Collection</name>
@@ -61,6 +21,24 @@
 </dir>
 
 <dir>
+<name>Back to the future 1-3</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/back%20to%20the%20future.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51HBABQTEWL.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Die Hard 1-4</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Die%20Hard.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/61SNxkThAoL.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Expendables 1-3</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/The%20Expendables.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/mpzHpaXjBc7bHAhwcerIznnq9qV.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Friday 1-3</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Friday.xml</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/51qrognLDZL.jpg</thumbnail>
@@ -70,6 +48,18 @@
 <name>Indiana Jones 1-4</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Indiana.xml</link>
 <thumbnail>http://fanart.tv/thumb.php?src=/fanart/movies/84/movieposter/the-indiana-jones-collection-5231dd4b36cf9.jpg&w=280</thumbnail>
+</dir>
+
+<dir>
+<name>Lethal Weapon 1-4</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Leathal%20Weapon.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/816NXaglffL._SL1500_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Mission impossible 1-4</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/mission%20impossible.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/818efQqdCUL._SL1500_.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -91,6 +81,12 @@
 </dir>
 
 <dir>
+<name>Star Wars 1-6</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Star%20Wars.xml</link>
+<thumbnail>https://fanart.tv/fanart/movies/10/movieposter/star-wars-collection-53ae8e3b4dc1c.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Terminator 1-4</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Terminator.xml</link>
 <thumbnail>http://fanart.tv/thumb.php?src=/fanart/movies/528/movieposter/the-terminator-collection-53111d52b8649.jpg&w=280</thumbnail>
@@ -100,4 +96,10 @@
 <name>Transformers 1-3</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/transformers.xml</link>
 <thumbnail>https://fanart.tv/fanart/movies/1858/movieposter/transformers-5276acc788c70.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>X-men 1-6</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/x-men.xml</link>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@._V1_SX500_SY999_.jpg</thumbnail>
 </dir>
