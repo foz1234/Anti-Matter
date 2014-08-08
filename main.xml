@@ -11,7 +11,6 @@
 
 
 
-
 <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Movies box sets[/B]</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Movie%20Box%20Sets.xml</link>
@@ -28,20 +27,19 @@
 
 
 <dir>
+<name>[COLOR ff4a86e8][/COLOR][B]3D Movies[/B]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
+</dir>
+
+
+<dir>
 <name>[B][COLOR ff4a86e8]TV Shows -[/COLOR] [COLOR ffcc0000]Coming Soon[/COLOR][/B]</name>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://xunitytalk-playlisters.googlecode.com/svn/trunk/XMLs/dummy.file</link>
 </dir>
-
-
-<dir>
-<name>[B][COLOR ff4a86e8]3D Movies -[/COLOR] [COLOR ffcc0000]Coming Soon[/COLOR][/B]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
-<link>https://xunitytalk-playlisters.googlecode.com/svn/trunk/XMLs/dummy.file</link>
-</dir>
-
  
  
 
