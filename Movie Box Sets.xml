@@ -44,13 +44,6 @@
 <thumbnail>http://ecx.images-amazon.com/images/I/61SNxkThAoL.jpg</thumbnail>
 </dir>
 
-
-<dir>
-<name>The Expendables 1-3</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/The%20Expendables.xml</link>
-<thumbnail>http://image.tmdb.org/t/p/w185/mpzHpaXjBc7bHAhwcerIznnq9qV.jpg</thumbnail>
-</dir>
-
 <dir>
 <name>Friday 1-3</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Friday.xml</link>
@@ -94,6 +87,12 @@
 </dir>
 
 <dir>
+<name>Monty Python 1-5</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Monty%20Python.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/61n8PZ22N4L.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Rambo 1-4</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Rambo.xml</link>
 <thumbnail>https://fanart.tv/fanart/movies/7555/movieposter/rambo-522bdbb61427d.jpg</thumbnail>
@@ -121,6 +120,12 @@
 <name>Terminator 1-4</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Terminator.xml</link>
 <thumbnail>http://fanart.tv/thumb.php?src=/fanart/movies/528/movieposter/the-terminator-collection-53111d52b8649.jpg&w=280</thumbnail>
+</dir>
+
+<dir>
+<name>The Expendables 1-3</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/The%20Expendables.xml</link>
+<thumbnail>http://image.tmdb.org/t/p/w185/mpzHpaXjBc7bHAhwcerIznnq9qV.jpg</thumbnail>
 </dir>
 
 <dir>
