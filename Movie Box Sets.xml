@@ -99,6 +99,12 @@
 </dir>
 
 <dir>
+<name>Predator 1-5</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Predator.xml</link>
+<thumbnail>https://fanart.tv/fanart/movies/106/movieposter/predator-52cecc210f8ff.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Rambo 1-4</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Rambo.xml</link>
 <thumbnail>https://fanart.tv/fanart/movies/7555/movieposter/rambo-522bdbb61427d.jpg</thumbnail>
@@ -180,4 +186,10 @@
 <name>X-men 1-6</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/x-men.xml</link>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTYxMTEzNTgzM15BMl5BanBnXkFtZTcwMjg1MzAwMQ@@._V1_SX500_SY999_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name></name>
+<link></link>
+<thumbnail></thumbnail>
 </dir>
