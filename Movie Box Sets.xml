@@ -183,6 +183,12 @@
 </dir>
 
 <dir>
+<name>Scary Movie 1-5</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Scary_Movie.xml</link>
+<thumbnail>http://p.playserver1.com/ProductImages/4/9/5/1/1/6/1/1611594_300x300_1.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Star Wars 1-6</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Star%20Wars.xml</link>
 <thumbnail>https://fanart.tv/fanart/movies/10/movieposter/star-wars-collection-53ae8e3b4dc1c.jpg</thumbnail>
@@ -218,11 +224,7 @@
 <thumbnail>http://p.playserver1.com/ProductImages/3/2/0/2/8/7/6/6782023_300x300_1.jpg</thumbnail>
 </dir>
 
-<dir>
-<name>Scary Movie 1-5</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Scary_Movie.xml</link>
-<thumbnail>http://p.playserver1.com/ProductImages/4/9/5/1/1/6/1/1611594_300x300_1.jpg</thumbnail>
-</dir>
+
 
 <dir>
 <name>Transformers 1-3</name>
