@@ -51,7 +51,7 @@
 </dir>
 
 <dir>
-<name>Fast & Furious 1-8</name>
+<name>Fast & Furious 1-6</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Fast%20&%20Furious.xml</link>
 <thumbnail>http://image.tmdb.org/t/p/w185/zF0FyC5GWBl7CEn3MV8jvpCMMbn.jpg</thumbnail>
 </dir>
@@ -90,6 +90,12 @@
 <name>James Bond Collection 1-23</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/James%20Bond.xml</link>
 <thumbnail>http://i57.tinypic.com/2nlfxip.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Jaws 1-4</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Jaws.xml</link>
+<thumbnail>https://fanart.tv/fanart/movies/194756/movieposter/jaws-collection-53aa648b503c9.jpg</thumbnail>
 </dir>
 
 <dir>
