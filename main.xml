@@ -12,6 +12,13 @@
 
 
 <dir>
+<name>[B]3[COLOR ffff0000]D[/COLOR] Movies[/B]</name>
+<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
+</dir>
+
+<dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Movies box sets[/B]</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Movie%20Box%20Sets.xml</link>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
@@ -19,19 +26,12 @@
 
 
 <dir>
-<name>[COLOR ff4a86e8][/COLOR][B]Movies 2000 > on[/B]</name>
+<name>[COLOR ff4a86e8][/COLOR][B]Movies 2000 > On[/B]</name>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
 </dir>
 
-
-<dir>
-<name>[B]3[COLOR ffff0000]D[/COLOR] Movies[/B]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
-</dir>
 
 <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Classic 60's & 70's Films[/B]</name>
