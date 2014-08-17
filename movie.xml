@@ -142,7 +142,19 @@
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTI3NjU4ODQwOF5BMl5BanBnXkFtZTcwNDIwMzIzMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg</thumbnail>
 <link>http://dl.firedrive.com/?key=QkQyQzkxRDM0OEVENzc0MjoxNDA3ODY2OTAxLjE4ODU6NjRmNDQxZTM2MDU0YzAxYWEzNmEzOTk1NWVhMWMxODNhM2IzYjhlZQ==</link>
 </item>
+##
+<item>
+<title>Kick-Ass (2010)</title> 
+<thumbnail>https://fanart.tv/fanart/movies/23483/movieposter/kick-ass-521e63cd69a5e.jpg</thumbnail>
+<link>http://movreel.com/w9tm3wyi0ewb</link>
+</item>
 
+<item>
+<title>Kick-Ass 2 (2013)</title> 
+<thumbnail>https://fanart.tv/fanart/movies/59859/movieposter/kick-ass-2-52ca2e61ebefd.jpg</thumbnail>
+<link>http://movreel.com/t11it0lqx2vg.html</link>
+</item>
+##
 <item>
 <title>Kid Cannabis (2014)</title>
 <thumbnail>https://image.tmdb.org/t/p/w396/fPgKyayfWGBReRojfUW3ElxRXPz.jpg</thumbnail>
@@ -362,10 +374,12 @@
 
 
 <item>
-<title></title> 
+<title></title>
 <thumbnail></thumbnail>
-<link></link>
+<link>
+<sublink></sublink>
+<sublink></sublink>
+</link>
 </item>
-
 
 
