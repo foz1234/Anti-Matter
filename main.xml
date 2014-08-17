@@ -19,7 +19,7 @@
 
 
 <dir>
-<name>[COLOR ff4a86e8][/COLOR][B]Movies[/B]</name>
+<name>[COLOR ff4a86e8][/COLOR][B]Movies 2000 > on[/B]</name>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
@@ -31,6 +31,12 @@
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
+</dir>
+
+<dir>
+<name>[COLOR ff4a86e8][/COLOR][B]Classic 60's & 70's Films[/B]</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/60-70.xml</link>
+<thumbnail>http://i68.fastpic.ru/big/2014/0806/c8/eec64178438bb483840e6946aa3a17c8.jpg</thumbnail>
 </dir>
 
 
