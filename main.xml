@@ -4,7 +4,7 @@
 
 <info>
 <message>[B][COLOR ff4a86e8]Please Follow me on Twitter @Anti_Mater_xbmc[/COLOR][/B] </message>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<thumbnail>http://rack.1.mshcdn.com/media/ZgkyMDEyLzEyLzA0LzAyL3doeWlzdHdpdHRlLmNlOS5qcGcKcAl0aHVtYgk5NTB4NTM0IwplCWpwZw/8661c634/4c7/why-is-twitter-s-logo-named-after-larry-bird--b8d70319da.jpg</thumbnail>
 <message>[B][COLOR ff4a86e8]Xunitytalk.com forum on http://xty.me/anti-matter[/COLOR][/B] </message>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 </info>
@@ -24,7 +24,7 @@
 
 <dir>
 <name>[B]3[COLOR ffff0000]D[/COLOR] Movies[/B]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e2/Blu_ray_3d_logo.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
 </dir>
@@ -32,13 +32,13 @@
 <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Movies box sets[/B]</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Movie%20Box%20Sets.xml</link>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<thumbnail>http://www.moviemuser.co.uk/MovieImages/stella-box-set.jpg</thumbnail>
 </dir>
 
 
 <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Movies 2000 > On[/B]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<thumbnail>http://1.bp.blogspot.com/-MlZ5qxkJEuA/U9dyoKoi9bI/AAAAAAAAE94/1qTvEpeB-JY/s1600/movies.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
 </dir>
@@ -60,14 +60,14 @@
 
 <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]TV Shows[/B]</name>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<thumbnail>http://a181.phobos.apple.com/us/r1000/115/Purple/v4/d1/71/1d/d1711ddc-312a-a46b-4ec2-188dc2e69e34/mzl.tdczzcbz.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/TV%20Shows.xml</link>
 </dir>
  
  <dir>
 <name>[COLOR ff4a86e8][/COLOR][B]Caitlin's Corner[/B]</name>
-<thumbnail></thumbnail>
+<thumbnail>http://iowaadguy.files.wordpress.com/2012/06/1017743381.jpg</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Caitlins_Corner.xml</link>
 </dir>
