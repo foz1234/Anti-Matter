@@ -26,6 +26,7 @@
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 <message>[CR]</message>
 
+
 <dir>
 <name>New Releases (2014)</name>
 <thumbnail>http://braveux.com/wp-content/uploads/2014/07/2014-world-cup-logo.jpg</thumbnail>
@@ -34,10 +35,22 @@
 </dir>
 
 <dir>
-<name>3[COLOR ffff0000]D[/COLOR] Movies</name>
-<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e2/Blu_ray_3d_logo.png</thumbnail>
+<name>[COLOR ff4a86e8][/COLOR]Movies 2000-2013</name>
+<thumbnail>http://1.bp.blogspot.com/-MlZ5qxkJEuA/U9dyoKoi9bI/AAAAAAAAE94/1qTvEpeB-JY/s1600/movies.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
+</dir>
+
+<dir>
+<name>[COLOR ff4a86e8][/COLOR]Classic 80's & 90's Films</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/eighty%20and%20nintys.xml</link>
+<thumbnail>http://en.rotterdam.info/data/offer/offerid2082/large/2009-2010-We-all-love-the-80-s---90-s-1472591848.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR ff4a86e8][/COLOR]Classic 60's & 70's Films</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/sixty-seventy.xml</link>
+<thumbnail>http://i68.fastpic.ru/big/2014/0806/c8/eec64178438bb483840e6946aa3a17c8.jpg</thumbnail>
 </dir>
 
 <dir>
@@ -46,28 +59,12 @@
 <thumbnail>http://www.moviemuser.co.uk/MovieImages/stella-box-set.jpg</thumbnail>
 </dir>
 
-
 <dir>
-<name>[COLOR ff4a86e8][/COLOR]Movies 2000-2013</name>
-<thumbnail>http://1.bp.blogspot.com/-MlZ5qxkJEuA/U9dyoKoi9bI/AAAAAAAAE94/1qTvEpeB-JY/s1600/movies.png</thumbnail>
+<name>3[COLOR ffff0000]D[/COLOR] Movies</name>
+<thumbnail>http://upload.wikimedia.org/wikipedia/commons/e/e2/Blu_ray_3d_logo.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
 </dir>
-
-
-<dir>
-<name>[COLOR ff4a86e8][/COLOR]Classic 60's & 70's Films</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/sixty-seventy.xml</link>
-<thumbnail>http://i68.fastpic.ru/big/2014/0806/c8/eec64178438bb483840e6946aa3a17c8.jpg</thumbnail>
-</dir>
-
-
-<dir>
-<name>[COLOR ff4a86e8][/COLOR]Classic 80's & 90's Films</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/eighty%20and%20nintys.xml</link>
-<thumbnail>http://en.rotterdam.info/data/offer/offerid2082/large/2009-2010-We-all-love-the-80-s---90-s-1472591848.jpg</thumbnail>
-</dir>
-
 
 <dir>
 <name>[COLOR ff4a86e8][/COLOR]TV Shows</name>
