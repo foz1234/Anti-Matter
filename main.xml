@@ -30,14 +30,15 @@
 <dir>
 <name>New Releases (2014)</name>
 ###<thumbnail>http://braveux.com/wp-content/uploads/2014/07/2014-world-cup-logo.jpg</thumbnail>
-<thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/New%20Release.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/New%20Release1.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/2014.xml</link>
 </dir>
 
 <dir>
 <name>[COLOR ff4a86e8][/COLOR]Movies 2000-2013</name>
-<thumbnail>http://1.bp.blogspot.com/-MlZ5qxkJEuA/U9dyoKoi9bI/AAAAAAAAE94/1qTvEpeB-JY/s1600/movies.png</thumbnail>
+##<thumbnail>http://1.bp.blogspot.com/-MlZ5qxkJEuA/U9dyoKoi9bI/AAAAAAAAE94/1qTvEpeB-JY/s1600/movies.png</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/Movies%202000-2013-1.png</thumbnail>
 <fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
 </dir>
@@ -45,7 +46,8 @@
 <dir>
 <name>[COLOR ff4a86e8][/COLOR]Classic 80's & 90's Films</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/eighty%20and%20nintys.xml</link>
-<thumbnail>http://en.rotterdam.info/data/offer/offerid2082/large/2009-2010-We-all-love-the-80-s---90-s-1472591848.jpg</thumbnail>
+##<thumbnail>http://en.rotterdam.info/data/offer/offerid2082/large/2009-2010-We-all-love-the-80-s---90-s-1472591848.jpg</thumbnail>
+<thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/classic%201980-1999.png</thumbnail>
 </dir>
 
 <dir>
