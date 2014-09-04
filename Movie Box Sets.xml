@@ -113,12 +113,6 @@
 </dir>
 
 <dir>
-<name>The Lord Of The Rings 1-4</name>
-<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Lord_of_the_rings.xml</link>
-<thumbnail>http://p.playserver1.com/ProductImages/8/6/7/0/6/1/160768_180x180_1.jpg</thumbnail>
-</dir>
-
-<dir>
 <name>Mad Max 1-3</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Mad%20Max.xml</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/91Rm8Ju4D-L._SL1500_.jpg</thumbnail>
@@ -203,7 +197,7 @@
 </dir>
 
 <dir>
-<name>Superman 1-6</name>
+<name>Superman 1-6 + 2</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Superman.xml</link>
 <thumbnail>https://fanart.tv/fanart/movies/8537/movieposter/superman-collection-53c51a49122d0.jpg</thumbnail>
 </dir>
@@ -236,6 +230,12 @@
 <name>The Hunger Games 1-2</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/hunger%20games.xml</link>
 <thumbnail>http://www.moviemail.com/sleeve/large/73985.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>The Lord Of The Rings 1-4</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Lord_of_the_rings.xml</link>
+<thumbnail>http://p.playserver1.com/ProductImages/8/6/7/0/6/1/160768_180x180_1.jpg</thumbnail>
 </dir>
 
 <dir>
