@@ -2,7 +2,7 @@
 <fanart>http://xbmc-repo-ackbarr.googlecode.com/svn/trunk/dev/skin.cirrus%20extended%20v2/backgrounds/videos.jpg</fanart>
 
 <info>
-<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 6th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 8th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 </info>
 
@@ -38,6 +38,13 @@
 <name>Bad Boys 1-2 [B][COLOR ff00ff00][I]Added 06/09/14[/I][/COLOR][/B]</name>
 <thumbnail>http://untapped-media.com/wp-content/uploads/2014/08/badboys3-front.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/bad%20boys.xml</link>
+</dir>
+
+
+<dir>
+<name>Batman 1-6 [B][COLOR ff00ff00][I]Added 08/09/14[/I][/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Batman.xml</link>
+<thumbnail>http://picvenue.com/wp-content/uploads/2014/08/batman-logo-wallpapers.jpg</thumbnail>
 </dir>
 
 <dir>
