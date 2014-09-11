@@ -2,7 +2,7 @@
 <fanart>http://www.mk786.netau.net/web_images/tv.jpg</fanart>
 
 <info>
-<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 10th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 11th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 </info>
 
@@ -40,6 +40,12 @@
 <name>Fawlty Towers [B][COLOR ffff0000]Series 1 & 2[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Fawlty%20Towers.xml</link>
 <thumbnail>http://i.dailymail.co.uk/i/pix/2009/05/07/article-1177908-04D5DD58000005DC-623_468x742.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Game on [B][COLOR ffff0000]Series 1,2 & 3 [/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Game%20on.xml</link>
+<thumbnail>http://www.sainsburysentertainment.co.uk/media/ProductImage/largeImage/ProductImage-2871721.jpg</thumbnail>
 </dir>
 
 <dir>
