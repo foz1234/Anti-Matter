@@ -2,7 +2,7 @@
 <fanart>http://www.mk786.netau.net/web_images/tv.jpg</fanart>
 
 <info>
-<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 11th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 12th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 </info>
 
@@ -73,6 +73,12 @@
 </dir>
 
 <dir>
+<name>Max And Paddy [B][COLOR ffff0000]Series 1 & 2 [/COLOR][/B] </name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Max%20&%20Paddy.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51v2Lf9OsSL.jpg</thumbnail>
+</dir>
+
+<dir>
 <name>Miranda [B][COLOR ffff0000]Series 1,2 & 3[/COLOR][/B]</name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Miranda.xml</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/81uVpZkQWpL._SL1395_.jpg</thumbnail>
@@ -100,6 +106,12 @@
 <name>Outnumbered [B][COLOR ffff0000]Series 1,2,3,4 & 5 Inc Xmas Special[/COLOR][/B] </name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Outnumbered.xml</link>
 <thumbnail>http://p.playserver1.com/ProductImages/8/3/6/9/1/6/8/3/38619638_700x700min_1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Phoenix Nights [B][COLOR ffff0000]Series 1 & 2[/COLOR][/B] </name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Phoenix%20Nights.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/5186WX1X9YL.jpg</thumbnail>
 </dir>
 
 <dir>
