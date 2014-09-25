@@ -2,10 +2,14 @@
 <fanart>http://image-cdn.zap2it.com/images/wizard-wars-penn-teller-syfy.jpg</fanart>
 <thumbnail>http://kryptonradio.com/wp-content/uploads/2014/08/ww-show-page-image.jpg</thumbnail>
 
+<info>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 24th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8] Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<thumbnail>Dummy</thumbnail>
 <message>(PRDL) PLEASE REPORT DEAD LINKS</message>
-<thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
+<thumbnail>Dummy</thumbnail>
 <message>[CR]</message>
-
+<thumbnail>Dummy</thumbnail>
+</info>
 #######################################################################################################
 
 <item>
@@ -18,13 +22,15 @@
 </link>
 </item>
 
-<item>
-<title>[B][COLOR ff00ff00][I]Added 03/09/14[/I][/COLOR][/B]</title>
-<thumbnail></thumbnail>
-<link></link>
-</item>
-
 ############################################################################################################
+
+<info>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white] Series 1 [/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
+<thumbnail>dummy</thumbnail>
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
+
 
 <item>
 <title>Wizard Wars 1x01 Spam-tastic! (2014 August 19)</title>
@@ -75,8 +81,8 @@
 <title>Wizard Wars 1x06 Birds Of A Feather (2014 September 23)</title>
 <thumbnail>http://kryptonradio.com/wp-content/uploads/2014/08/ww-show-page-image.jpg</thumbnail>
 <link>
-<sublink></sublink>
-<sublink></sublink>
+<sublink>http://movreel.com/vcpk7pporf93</sublink>
+<sublink>http://hugefiles.net/cgemcoqbk1rt</sublink>
 </link>
 </item>
 
