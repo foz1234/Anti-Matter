@@ -202,6 +202,15 @@
 <thumbnail>http://p1cdn01.thewrap.com/images/2014/05/under-the-dome-618x400.jpg</thumbnail>
 </item> 
 
+<info>
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
+<message><message>[B][COLOR ff4a86e8]***[/COLOR] [COLOR white] Series 3 [/COLOR] [COLOR ff4a86e8]***[/COLOR][/B]</message></message>
+<thumbnail>dummy</thumbnail>
+<message>[CR]</message>
+<thumbnail>dummy</thumbnail>
+</info>
+
 <item>
 <title></title>
 <link></link> 
