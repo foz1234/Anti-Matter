@@ -2,7 +2,7 @@
 <fanart>http://www.mk786.netau.net/web_images/tv.jpg</fanart>
 
 <info>
-<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 20th [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8]Sept ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 04 [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8] Oct ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 </info>
 
@@ -21,6 +21,12 @@
 <name>Ashes to Ashes [B][COLOR ffff0000]Series 1,2 & 3 [/COLOR][/B] </name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Ashes%20to%20Ashes.xml</link>
 <thumbnail>http://p.playserver1.com/ProductImages/9/7/1/4/8/4/8/1/18484179_300x300_1.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>A Touch of Frost [B][COLOR ffff0000]Series 1 - 15 [/COLOR][/B] [B][COLOR ffffff00][I]Added 04/10/14[/I][/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/A%20Touch%20of%20Frost.xml</link>
+<thumbnail>http://ecx.images-amazon.com/images/I/51hdtM9M55L.jpg</thumbnail>
 </dir>
 
 <dir>
