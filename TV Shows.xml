@@ -2,7 +2,7 @@
 <fanart>http://www.mk786.netau.net/web_images/tv.jpg</fanart>
 
 <info>
-<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 10 [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8] Oct ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 13 [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8] Oct ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
 <thumbnail>https://pbs.twimg.com/profile_images/378800000859632875/-UddpgrN.png</thumbnail>
 </info>
 
@@ -15,6 +15,12 @@
 <name>Absolutely Fabulous [B][COLOR ffff0000]Series 1,2,3,4,5 + All Specials & Outtakes [/COLOR][/B] </name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Ab-Fab.xml</link>
 <thumbnail>http://ecx.images-amazon.com/images/I/61rvirXZHkL._SY300_.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Allo Allo [B][COLOR ffff0000]Series 1,2,3,4,5,6,7,8 & 9[/COLOR][/B] [B][COLOR ffffff00][I]Added 13/10/14[/I][/COLOR][/B]</name>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Allo-Allo.xml</link>
+<thumbnail>http://www.dunsleyhallhotel.co.uk/wp-content/uploads/2014/01/allo-allo-4dd82ea1b881e.png</thumbnail>
 </dir>
 
 <dir>
@@ -147,6 +153,12 @@
 <name>Life On Mars [B][COLOR ffff0000]Series 1 & 2 [/COLOR][/B] </name>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Life%20On%20Mars.xml</link>
 <thumbnail>http://www.bbcshop.com/content/ebiz/bbc/invt/eo10728/lifeonmars_complete_dvd_300.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>Little Britain [B][COLOR ffff0000]Series 1,2 & 3 + Specials[/COLOR][/B] [B][COLOR ffffff00][I]Added 13/10/14[/I][/COLOR][/B]</name>
+<link></link>
+<thumbnail>http://ecx.images-amazon.com/images/I/41WMaDMsLRL._SY300_.jpg</thumbnail>
 </dir>
 
 <dir>
