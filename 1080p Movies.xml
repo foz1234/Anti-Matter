@@ -26,6 +26,13 @@
 #B
 #C
 #D
+
+<item>
+<name>Dawn of the Planet of the Apes</name>
+<thumbnail>http://www.dawnoftheplanetoftheapes-movie.com/uploads/images/Gallery/photos-and-images/dawn-of-the-planet-of-the-apes-official-poster.jpg</thumbnail>
+<link></link>
+</item>
+
 #E
 #F
 #G
@@ -92,7 +99,7 @@
 <item>
 <name>Safe (1995)[B][COLOR ffff0000][I]Added 01/12/14[/I][/COLOR][/B] </name> 
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BNTYwOTk2NzQ5NF5BMl5BanBnXkFtZTcwOTQxMzYyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg</thumbnail>
-<link></link>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/links/1080p/Safe.xml</link>
 <item> 
 
 #T
