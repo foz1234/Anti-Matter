@@ -2,7 +2,7 @@
 <fanart></fanart>
 
 <info>
-<message>[B][COLOR ffffff00] Nane [/COLOR][/B]</message>
+<message>[B][COLOR ffffff00] Name [/COLOR][/B]</message>
 <thumbnail>http://blank</thumbnail>
 <message>[CR]</message>
 <thumbnail>http://blank</thumbnail>
@@ -12,7 +12,7 @@
 
 <item>
 <title></title>
-<thumbnail></thumbnail>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink></sublink>
 <sublink></sublink>
