@@ -1,6 +1,13 @@
 <poster></poster>
 <fanart></fanart>
 
+<info>
+<message>[B][COLOR ffffff00] Nane [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 
 
 <item>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Enter Plot [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
