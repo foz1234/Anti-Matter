@@ -1,11 +1,18 @@
 <poster>Tusk</poster>
 <fanart>http://i.ytimg.com/vi/60EUG-CDC_k/maxresdefault.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Tusk (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy, Drama, Horror </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Tusk (2014)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI4Nzk1NjkyNl5BMl5BanBnXkFtZTgwMjk4OTUxMjE@._V1_SX214_AL_.jpg</thumbnail>
+<title>Tusk</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/tqr0gloaunua.html</sublink>
 <sublink>http://v-vids.com/x7k3yko8p6h6</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] When podcaster Wallace Bryton goes missing in the backwoods of Manitoba while interviewing a mysterious seafarer named Howard Howe, his best friend Teddy and girlfriend Allison team with an ex-cop to look for him. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

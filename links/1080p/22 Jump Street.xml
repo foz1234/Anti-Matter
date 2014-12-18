@@ -1,11 +1,18 @@
 <poster>22 Jump Street</poster>
 <fanart>http://cdn2.hellogiggles.com/wp-content/uploads/2014/06/24/22-Jump-Street-2.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] 22 Jump Street (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Comedy, Crime </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>22 Jump Street (2014)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcwNzAxMDU1M15BMl5BanBnXkFtZTgwNDE2NTU1MTE@._V1_SX214_AL_.jpg</thumbnail>
+<title>22 Jump Street</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/k8xxq2r7a2fs</sublink>
 <sublink>http://vidbull.com/9cznk889a924.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] After making their way through high school (twice), big changes are in store for officers Schmidt and Jenko when they go deep undercover at a local college. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

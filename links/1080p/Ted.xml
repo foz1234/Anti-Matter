@@ -1,11 +1,18 @@
 <poster>Ted</poster>
 <fanart>http://righteousfilm.com/wp-content/uploads/2012/07/Seth-MacFarlane-as-Ted-2012.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Ted (2012) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy, Fantasy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Ted (2012)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_SX214_AL_.jpg</thumbnail>
+<title>Ted</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/1i8bgbu54eu4</sublink>
 <sublink>http://vidbull.com/n9chclnhdqyu.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] As the result of a childhood wish, John Bennett's teddy bear, Ted, came to life and has been by John's side ever since - a friendship that's tested when Lori, John's girlfriend of four years, wants more from their relationship. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

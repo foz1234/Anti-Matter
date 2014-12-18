@@ -1,11 +1,18 @@
 <poster>The Mule</poster>
 <fanart>http://static.yts.re/attachments/The_Mule_2014/Screenshot-06_large.png</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] The Mule (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Crime </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>The Mule (2014)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjM5OTM3Mzk2MF5BMl5BanBnXkFtZTgwMzE1NjcxMzE@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<title>The Mule</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/bs341n926sf8.html</sublink>
 <sublink>http://v-vids.com/69qk4cs4nqb7</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A first time drug mule is caught by law enforcement. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

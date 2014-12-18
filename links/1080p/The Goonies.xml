@@ -1,11 +1,18 @@
 <poster>The Goonies</poster>
 <fanart>http://media.cinemasquid.com/blu-ray/titles/the-goonies/2620/screenshot-med-01.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] The Goonies (1985) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Adventure, Comedy, Family </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>The Goonies (1985) </title>
-<thumbnail>http://www.imdb.com/media/rm2290534656/tt0089218?ref_=tt_ov_i</thumbnail>
+<title>The Goonies</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/sd5lubfkgje0</sublink>
 <sublink>http://vidbull.com/mqy0abubc5fh.html</sublink>
@@ -16,3 +23,8 @@
 <sublink>http://180upload.com/kwjc8zfjjqho</sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A group of kids embark on a wild adventure after finding a pirate treasure map. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

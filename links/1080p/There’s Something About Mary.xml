@@ -1,11 +1,18 @@
 <poster>There’s Something About Mary</poster>
 <fanart>https://image.tmdb.org/t/p/w780/8ZIZJbPXCtnIG1rJpR57iFRyPTt.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] There’s Something About Mary (1998) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy, Romance </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>There’s Something About Mary (1998)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTAzNzM3NTM4NDNeQTJeQWpwZ15BbWU4MDgzOTgzMTAx._V1_SX214_AL_.jpg</thumbnail>
+<title>There’s Something About Mary</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/fugfwneopk6l.html</sublink>
 <sublink>http://v-vids.com/zzhyjhs76nnn</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A man gets a chance to meet up with his dream girl from highschool, even though his date with her back then was a complete disaster. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

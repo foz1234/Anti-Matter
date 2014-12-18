@@ -1,11 +1,18 @@
 <poster>The Mask</poster>
 <fanart>http://cdn.mos.totalfilm.com/images/t/the-mask-1994-_143798-fli_1377966127.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] The Mask (1994) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy, Crime, Fantasy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>The Mask (1994)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjM3NDI5OTA5Nl5BMl5BanBnXkFtZTgwNzE4ODYxMTE@._V1_SX214_AL_.jpg</thumbnail>
+<title>The Mask</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/snyohw5ehus2.html</sublink>
 <sublink>http://v-vids.com/6iiu5aq8vzpe</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Bank clerk Stanley Ipkiss is transformed into a manic super-hero when he wears a mysterious mask. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

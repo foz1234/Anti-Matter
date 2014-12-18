@@ -1,11 +1,18 @@
 <poster>Dragons of Camelot</poster>
 <fanart>http://i133.photobucket.com/albums/q80/trungcang/h8/vlcsnap-2014-11-15-19h26m40s51.png~original</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Name [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Sci-Fi </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Dragons of Camelot (2014) </title>
-<thumbnail>http://www.imdb.com/media/rm3062743296/tt3466816?ref_=tt_ov_i</thumbnail>
+<title>Dragons of Camelot</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/x5d2nophypsh.html</sublink>
 <sublink>http://v-vids.com/ipuc161fmqdq</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] The Kingdom of Camelot is plunged into darkness after the death of noble King Arthur, as the reign of his cruel sorceress sister, Morgan, begins. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

@@ -1,11 +1,18 @@
 <poster>21 Jump Street</poster>
 <fanart>http://iamyourtargetdemographic.files.wordpress.com/2012/03/21-jump-street-3.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] 21 Jump Street (2012) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Comedy, Crime </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>21 Jump Street (2012)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc3NzQ3OTg3NF5BMl5BanBnXkFtZTcwMjk5OTcxNw@@._V1_SX214_AL_.jpg</thumbnail>
+<title>21 Jump Street</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/zi8u9osga2vu</sublink>
 <sublink>http://vidbull.com/0cvo6rjt5xhi.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A pair of underachieving cops are sent back to a local high school to blend in and bring down a synthetic drug ring. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

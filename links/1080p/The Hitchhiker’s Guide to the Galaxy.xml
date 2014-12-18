@@ -1,10 +1,19 @@
 <poster>The Hitchhiker’s Guide to the Galaxy (2005)</poster>
 <fanart>http://subversify.com/wp-content/uploads/2012/12/the-hitchhikers-guide-to-the-galaxy-505742c4e0b71.jpg</fanart>
 
+<info>
+<message>[B][COLOR ffffff00] The Hitchhiker’s Guide to the Galaxy (2005) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Adventure, Comedy, Sci-Fi </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 
 <item>
-<title>The Hitchhiker’s Guide to the Galaxy (2005)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjEwOTk4NjU2MF5BMl5BanBnXkFtZTYwMDA3NzI3._V1_SX214_AL_.jpg</thumbnail>
+<title>The Hitchhiker’s Guide to the Galaxy</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/p6zx471bgq6s.html</sublink>
 <sublink>http://v-vids.com/v54o63tsal5t</sublink>
@@ -12,3 +21,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Mere seconds before the Earth is to be demolished by an alien construction crew, journeyman Arthur Dent is swept off the planet by his friend Ford Prefect, a researcher penning a new edition of “The Hitchhiker’s Guide to the Galaxy.” [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

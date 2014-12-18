@@ -1,10 +1,17 @@
 <poster>The Prince</poster>
 <fanart>http://1hdwallpapers.com/wallpapers/the_prince_2014_jason_patric_bruce_willis_john_cusack.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] The Prince (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>The Prince (2014)</title>
+<title>The Prince</title>
 <thumbnail>http://www.imdb.com/media/rm1562692864/tt1085492?ref_=tt_ov_i</thumbnail>
 <link>
 <sublink>http://movreel.com/hm8oca1rryem.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A retired assassin is drawn back into the life he gave up when his daughter is kidnapped. To rescue her, he must confront his former rival. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

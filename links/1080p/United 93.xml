@@ -1,11 +1,18 @@
 <poster>United 93</poster>
 <fanart>http://i.telegraph.co.uk/multimedia/archive/02467/United93_2467572k.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] United 93 (2006) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Drama, Crime </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>United 93 (2006)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTI1Nzc3NjAwOF5BMl5BanBnXkFtZTcwNzYzMjYzMQ@@._V1_SX214_AL_.jpg</thumbnail>
+<title>United 93</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/3vydfwgv648w</sublink>
 <sublink>http://vidbull.com/xxzl8lsovu8y.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A real time account of the events on United Flight 93, one of the planes hijacked on 9/11 that crashed near Shanksville, Pennsylvania when passengers foiled the terrorist plot. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

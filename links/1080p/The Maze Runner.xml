@@ -1,10 +1,19 @@
 <poster>The Maze Runner </poster>
 <fanart>http://www.hdwallpapers.in/walls/the_maze_runner_2014_movie-wide.jpg</fanart>
 
+<info>
+<message>[B][COLOR ffffff00] The Maze Runner (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Mystery, Sci-Fi </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 
 <item>
-<title>The Maze Runner (2014)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjUyNTA3MTAyM15BMl5BanBnXkFtZTgwOTEyMTkyMjE@._V1_SX214_AL_.jpg</thumbnail>
+<title>The Maze Runner</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/au7q48qo00v4.html</sublink>
 <sublink>http://v-vids.com/6wek8mqhagbt</sublink>
@@ -12,3 +21,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Thomas is deposited in a community of boys after his memory is erased, soon learning they’re all trapped in a maze that will require him to join forces with fellow “runners” for a shot at escape. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

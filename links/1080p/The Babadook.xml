@@ -1,11 +1,18 @@
 <poster>The Babadook</poster>
 <fanart>http://i.ytimg.com/vi/VGwC7fJQ1Es/maxresdefault.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] The Babadook (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Drama, Horror, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>The Babadook (2014)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTk0NzMzODc2NF5BMl5BanBnXkFtZTgwOTYzNTM1MzE@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<title>The Babadook</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/c4az677mvahw.html</sublink>
 <sublink>http://v-vids.com/fkyrr8mzzj1p</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A single mother, plagued by the violent death of her husband, battles with her son’s fear of a monster lurking in the house, but soon discovers a sinister presence all around her. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

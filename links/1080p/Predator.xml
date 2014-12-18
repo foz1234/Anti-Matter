@@ -1,10 +1,15 @@
 <poster>Predators</poster>
 <fanart></fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Predator (1987) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Sci-Fi, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>[COLOR ffffffff]Predator (1987)[/COLOR]</title>
+<title>Predator</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTM1Njk0MjIwN15BMl5BanBnXkFtZTcwNzgwNzEyMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg</thumbnail>
 <link>
 <sublink>http://movreel.com/6sqel4mcctag.html</sublink>
@@ -17,8 +22,23 @@
 </link>
 </item>
 
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A team of commandos, on a mission in a Central American jungle, find themselves hunted by an extra-terrestrial warrior. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+#################################################################################
+
+<info>
+<message>[B][COLOR ffffff00] Predator 2) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Sci-Fi, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 <item>
-<title>[COLOR ffffff00]Predator 2 (1990)[/COLOR]</title>
+<title>Predator 2</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMTc0OTc3MjY2OF5BMl5BanBnXkFtZTcwOTI2NDcyMQ@@._V1_SY317_CR7,0,214,317_AL_.jpg</thumbnail>
 <link>
 <sublink>http://v-vids.com/uz8nzbw4tahw</sublink>
@@ -31,8 +51,23 @@
 </link>
 </item>
 
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Amidst a territorial gang war, a sophisticated alien hunter stalks the citizens of Los Angeles and the only man between him and his prey is veteran L.A.P.D. officer, Lieutenant Mike Harrigan. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+#################################################################################
+
+<info>
+<message>[B][COLOR ffffff00] Predators (2010) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Sci-Fi, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 <item>
-<title>[COLOR ff4a86e8]Predators (2010)[/COLOR]</title>
+<title>Predators</title>
 <thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA5MzYwODgzOV5BMl5BanBnXkFtZTcwMTQwMjUyMw@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
 <link>
 <sublink>http://movreel.com/bfid16miypaj.html</sublink>
@@ -44,3 +79,11 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A group of elite warriors are hunted by members of a merciless alien race known as Predators. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+#################################################################################

@@ -1,11 +1,18 @@
 <poster>X-Men: Days of Future Past</poster>
 <fanart>http://www.hdmovietrailers.eu/wp-content/uploads/2014/09/X-Men-Days-of-Future-Past-HD-Movie-2014-2.jpeg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] X-Men: Days of Future Past (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Adventure, Fantasy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>X-Men: Days of Future Past (2014) </title>
-<thumbnail>http://www.imdb.com/media/rm2516506880/tt1877832?ref_=tt_ov_i</thumbnail>
+<title>X-Men</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/q2qa41tz8pra.html</sublink>
 <sublink>http://v-vids.com/pz83wjimfrdj</sublink>
@@ -16,3 +23,8 @@
 <sublink>http://billionuploads.com/xvwsy9l93rli</sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] The X-Men send Wolverine to the past in a desperate effort to change history and prevent an event that results in doom for both humans and mutants. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

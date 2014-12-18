@@ -1,10 +1,19 @@
 <poster>Terminator 2 Judgment Day</poster>
 <fanart>http://www.gonemovies.com/WWW/Pictures/Pictures/Terminator2-26.jpg</fanart>
 
+<info>
+<message>[B][COLOR ffffff00] Terminator 2 Judgment Day (1991) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Sci-Fi, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 
 <item>
-<title>Terminator 2 Judgment Day (1991)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTg5NzUwMDU5NF5BMl5BanBnXkFtZTcwMjk2MDA4Mg@@._V1_SY317_CR18,0,214,317_AL_.jpg</thumbnail>
+<title>Terminator 2 Judgment Day</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/vyuydpt4riw7</sublink>
 <sublink>http://180upload.com/19044k090ubt</sublink>
@@ -12,3 +21,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] The cyborg who once tried to kill Sarah Connor is dead, and another T-101 must now protect her teenage son, John Connor, from an even more powerful and advanced Terminator, the T-1000. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

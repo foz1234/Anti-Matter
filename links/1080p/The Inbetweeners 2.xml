@@ -1,11 +1,18 @@
 <poster>The Inbetweeners 2</poster>
 <fanart>http://upload.wikimedia.org/wikipedia/en/0/0f/Inbetweeners_2_Movie_Poster.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] The Inbetweeners 2 (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>The Inbetweeners 2 (2014) </title>
-<thumbnail>http://www.imdb.com/media/rm1566425856/tt3097204?ref_=tt_ov_i</thumbnail>
+<title>The Inbetweeners 2</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/zsif8p7b39iu.html</sublink>
 <sublink>http://v-vids.com/e1gu54gfn82t</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Jay, Neil, Simon, and Will reunite in Australia for a holiday. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
