@@ -1,7 +1,10 @@
 <poster>Aliens vs Predator</poster>
 <fanart>http://monsterlegacy.files.wordpress.com/2014/01/avprwolfheadse.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] AVP: Alien vs. Predator (2004) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
 <title>[COLOR ffffffff]AVP: Alien vs. Predator (2004)[/COLOR]</title>
@@ -17,6 +20,19 @@
 </link>
 </item>
 
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B]  During an archaeological expedition on Bouvetoya Island in Antarctica, a team of archaeologists and other scientists find themselves caught up in a battle between the two legends. Soon, the team realize that only one species can win. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
+###################################################################
+
+<info>
+<message>[B][COLOR ffffff00] Aliens vs. Predator: Requiem (2007 [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
 <title>[COLOR ff0000ff]Aliens vs. Predator: Requiem (2007)[/COLOR]</title>
@@ -31,3 +47,10 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Warring alien and predator races descend on a small town, where unsuspecting residents must band together for any chance of survival.  [/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
