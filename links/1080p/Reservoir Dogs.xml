@@ -1,11 +1,18 @@
 <poster>Reservoir Dogs</poster>
 <fanart>http://upload.wikimedia.org/wikipedia/en/9/9f/Reservoirdog.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Reservoir Dogs (1992) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Crime, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Reservoir Dogs (1992)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTQxMTAwMDQ3Nl5BMl5BanBnXkFtZTcwODMwNTgzMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg</thumbnail>
+<title>Reservoir Dogs</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/jnodmj3vxr9i.html</sublink>
 <sublink>http://v-vids.com/loczrnowqs6f</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] After a simple jewelery heist goes terribly wrong, the surviving criminals begin to suspect that one of them is a police informant. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

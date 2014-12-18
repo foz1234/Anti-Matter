@@ -1,11 +1,18 @@
 <poster>Shrek</poster>
 <fanart>http://1.bp.blogspot.com/-EYkeNS9k8Rg/Ulun3M-NiJI/AAAAAAAATyA/5GJhr1eOPgU/s1600/jB1M7yFXEs.png</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Shrek (2001) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Animation, Adventure, Comedy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Shrek (2001) </title>
-<thumbnail>http://www.imdb.com/media/rm1464390656/tt0126029?ref_=tt_ov_i</thumbnail>
+<title>Shrek</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/hpf9zrbnaxls.html</sublink>
 <sublink>http://v-vids.com/tfvn1vtfkojr</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] An ogre, in order to regain his swamp, travels along with an annoying donkey in order to bring a princess to a scheming lord, wishing himself King. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

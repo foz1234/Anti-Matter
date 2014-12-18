@@ -1,11 +1,18 @@
 <poster>Let’s Be Cops</poster>
 <fanart>http://thenypost.files.wordpress.com/2014/08/lets-be-cops.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Let’s Be Cops (2014) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Let’s Be Cops (2014)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjI3MDY2ODQwNF5BMl5BanBnXkFtZTgwNjUzNjE4MTE@._V1_SX214_AL_.jpg</thumbnail>
+<title>Let’s Be Cops</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/i8vuiqib8rzc</sublink>
 <sublink>http://vidbull.com/z8gf5jjwx1zk.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Two struggling pals dress as police officers for a costume party and become neighborhood sensations. But when these newly-minted "heroes" get tangled in a real life web of mobsters and dirty detectives, they must put their fake badges on the line. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
