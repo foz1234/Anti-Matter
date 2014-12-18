@@ -1,11 +1,18 @@
 <poster>Gone in Sixty Seconds</poster>
 <fanart>http://derekwinnert.com/wp-content/uploads/2014/03/743.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Gone in Sixty Seconds (2000) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Crime, Thriller </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Gone in Sixty Seconds (2000)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTIwMzExNDEwN15BMl5BanBnXkFtZTYwODMxMzg2._V1_SY317_CR1,0,214,317_AL_.jpg</thumbnail>
+<title>Gone in Sixty Seconds</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/8b2u20fr9oxq</sublink>
 <sublink>http://vidbull.com/5l3ey2uuqai0.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] A retired master car thief must come back to the industry and steal 50 cars with his crew in one night to save his brother’s life. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

@@ -1,11 +1,18 @@
 <poster>Blazing Saddles</poster>
 <fanart>http://img2-2.timeinc.net/ew/dynamic/imgs/101109/Blazing-Saddles-Gene_400.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Blazing Saddles (1974) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy, Western </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Blazing Saddles (1974) 1080p </title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTcyMzQ0MjQ5MF5BMl5BanBnXkFtZTYwOTczNjA5._V1_SY317_CR3,0,214,317_AL_.jpg</thumbnail>
+<title>Blazing Saddles </title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://movreel.com/0njdhi25jjuk.html</sublink>
 <sublink>http://v-vids.com/i6imk08xsdqw</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] To ruin a western town, a corrupt political boss appoints a black sheriff, who promptly becomes his most formidable adversary. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>

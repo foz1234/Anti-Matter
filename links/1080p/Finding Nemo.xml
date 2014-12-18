@@ -1,11 +1,18 @@
 <poster>Finding Nemo</poster>
 <fanart>https://reuoq.files.wordpress.com/2013/01/woj-finding-nemo_-1080p-4.jpg</fanart>
 
-
+<info>
+<message>[B][COLOR ffffff00] Finding Nemo (2003) [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Animation, Adventure, Comedy </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
 
 <item>
-<title>Finding Nemo (2003)</title>
-<thumbnail>http://ia.media-imdb.com/images/M/MV5BMTY1MTg1NDAxOV5BMl5BanBnXkFtZTcwMjg1MDI5Nw@@._V1_SY317_CR0,0,214,317_AL_.jpg</thumbnail>
+<title>Finding Nemo</title>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink>http://v-vids.com/t4lkp940nn0g</sublink>
 <sublink>http://vidbull.com/539ocupf54ra.html</sublink>
@@ -16,3 +23,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home. [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
