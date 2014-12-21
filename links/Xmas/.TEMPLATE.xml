@@ -1,11 +1,20 @@
 <poster></poster>
 <fanart></fanart>
 
+<info>
+<message>[B][COLOR ffffff00] Name [/COLOR][/B]</message>
+<thumbnail>http://blank</thumbnail>
+<message>[B][COLOR ff00ff00] Genre: [/COLOR][/B]  </message>
+<thumbnail>http://blank</thumbnail>
+<message>[CR]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
+
 
 
 <item>
 <title></title>
-<thumbnail></thumbnail>
+<thumbnail>http://blank</thumbnail>
 <link>
 <sublink></sublink>
 <sublink></sublink>
@@ -16,3 +25,8 @@
 <sublink></sublink>
 </link>
 </item>
+
+<info>
+<message>[B][COLOR ffffff00]Plot:[/COLOR][/B] [B] Enter Plot [/B]</message>
+<thumbnail>http://blank</thumbnail>
+</info>
