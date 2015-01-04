@@ -59,7 +59,7 @@
 #################################################################################
 
 <info>
-<message>[B][COLOR ffffff00] Men in Black (1997) </message>
+<message>[B][COLOR ffffff00] Men in Black (1997) [/COLOR][/B]</message>
 <thumbnail>http://blank</thumbnail>
 <message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Comedy, Sci-Fi </message>
 <thumbnail>http://blank</thumbnail>
@@ -90,14 +90,14 @@
 
 
 <info>
-<message>[B][COLOR ffffff00] Men in Black 3 [B]3[COLOR ffff0000]D[/COLOR][/B] (2012) [/COLOR][/B]</message>
+<message>[B][COLOR ffffff00] Men in Black 3 [/COLOR][/B][B]3[COLOR ffff0000]D[/COLOR][/B] (2012) [/COLOR][/B]</message>
 <thumbnail>http://blank</thumbnail>
 <message>[B][COLOR ff00ff00] Genre: [/COLOR][/B] Action, Comedy, Sci-Fi </message>
 <thumbnail>http://blank</thumbnail>
 </info>
 
 <item>
-<title>[B][COLOR ffffff00] Men in Black 3 [B]3[COLOR ffff0000]D[/COLOR][/B] (2012) [/COLOR][/B]</title>
+<title>Men in Black 3 - [B]3[COLOR ffff0000]D[/COLOR][/B] (2012) [/COLOR][/B]</title>
 <thumbnail>https://fanart.tv/fanart/movies/41154/movieposter/men-in-black-iii-5218ea128e2cc.jpg</thumbnail>
 <link>
 <sublink>http://billionuploads.com/0dzhf904m807</sublink>
