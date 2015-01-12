@@ -30,28 +30,24 @@
 <dir>
 <name>1080p Movies ([COLOR ffffff00] - Multi-Links - [/COLOR]) </name>
 <thumbnail>http://socialbarrel.com/wp-content/uploads/2011/07/Full-HD-iTunes-1080p-Movies-May-Come-This-Fall-Report.jpg</thumbnail>
-<fanart>http://wallpaperscraft.com/image/4051/1920x1080.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/1080p%20Movies.xml</link>
 </dir>
 
 <dir>
 <name>3[COLOR ffff0000]D[/COLOR] Movies</name>
 <thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/rsz_3dmovies-ref.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/3D%20Movies.xml</link>
 </dir>
 
 <dir>
 <name>Movies (2014)</name>
 <thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/rsz_new_release_2014_ref.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/2014.xml</link>
 </dir>
 
 <dir>
 <name>Movies 2000-2013</name>
 <thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/rsz_movies_2000-2013_ref.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/movie.xml</link>
 </dir>
 
@@ -76,7 +72,6 @@
 <dir>
 <name>TV Shows</name>
 <thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/rsz_tvshowsref.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/TV%20Shows.xml</link>
 </dir>
 
@@ -89,28 +84,24 @@
  <dir>
 <name>Caitlin's Corner</name>
 <thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/rsz_caitlincorner_ref.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Caitlins_Corner.xml</link>
 </dir>
 
 <dir>
 <name>Stand Up Comedy</name>
 <thumbnail>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Pictures/rsz_stand_up.png</thumbnail>
-<fanart>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/fanart.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Stand%20Up.xml</link>
 </dir>
 
 <dir>
 <name>Christmas Movies 2014</name>
 <thumbnail>http://lafiaba.co.uk/wp-content/uploads/2014/10/christmas2-1.jpg</thumbnail>
-<fanart>http://gocovington.com/wp-content/uploads/2013/11/merry-christmas-01.jpg</fanart>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/Xmas-Movies.xml</link>
 </dir>
 
 <dir>
 <name></name>
 <thumbnail></thumbnail>
-<fanart></fanart>
 <link></link>
 </dir>
 
