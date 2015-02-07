@@ -3,7 +3,7 @@
 <thumbnail></thumbnail>
 
 <info>
-<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 22 [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8] Jan 2015 ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
+<message>Last Updated on [COLOR ffffffff]***[/COLOR][COLOR ff4a86e8]***[/COLOR][COLOR ff4a86e8] 7 [/COLOR][COLOR ffffffff]-[/COLOR][COLOR ff4a86e8] Feb 2015 ***[/COLOR][COLOR ffffffff]***[/COLOR]</message>
 <thumbnail>http://blank</thumbnail>
 <message>[CR]</message>
 <message>[B][COLOR ffffff00] Full HD Movie Section - Multi-Links [/COLOR][/B]</message>
@@ -104,6 +104,7 @@
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/links/1080p/Broken%20Arrow.xml</link>
 <item> 
 
+
 #C
 
 <item>
@@ -173,6 +174,12 @@
 <name>Die Another Day (2002)</name> 
 <thumbnail>http://s22.postimg.org/u9p0r8lwx/JB_Die_another_day.jpg</thumbnail>
 <link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/links/1080p/Die%20Another%20Day.xml</link>
+<item> 
+
+<item>
+<name>Dumb and Dumber To (2014)</name> 
+<thumbnail>Dumb and Dumber To (2014)</thumbnail>
+<link>https://raw.githubusercontent.com/foz1234/Anti-Matter/master/links/1080p/Dumb%20and%20Dumber%20To.xml</link>
 <item> 
 
 #E
